@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
  [Screenshotc. rel](//myoctocat.com/assets/images/base-octocat.svg)
  
-user-images.githubusercontent.com/
+https://user-images.githubusercontent.com/
 
-github-production-repository-file-5c1aeb.s3.amazonaws.com
+https://github-production-repository-file-5c1aeb.s3.amazonaws.com
