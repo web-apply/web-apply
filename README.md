@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
  [Screenshotc. rel](//myoctocat.com/assets/images/base-octocat.svg)
  
- https://github.com.sg/issues
+ https://raw.github.com.sg/issues
